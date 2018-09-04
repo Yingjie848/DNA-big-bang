@@ -1,2 +1,2 @@
 # DNA-big-bang
-Hi This is a new branch
+This is branch 2
